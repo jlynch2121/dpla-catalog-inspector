@@ -1,2 +1,2 @@
 # dpla-catalog-inspector
- Python script designed for metadata retrieval and inspection. Gathers JSON data using the Digital Public Library of America (DPLA) API. This data will be plugged into OpenRefine for inspection
+ Python script designed for metadata retrieval from the DPLA's API and headless browser inspection of the DPLA's catalog. Was created in order to generate a list of items missing thumbnails in the catalog in order to diagnose the issue.
